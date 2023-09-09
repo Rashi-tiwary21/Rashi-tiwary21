@@ -2,8 +2,8 @@
                                                           
                                                                                    
 
-- 🎓 BCom Graduate and an aspiring Data Analyst
-- 🌱 Currently learning Power BI, Python, SQL, Excel
+- 🎓 **BCom Graduate** and an aspiring **Data Analyst**
+- 🌱 Currently learning **Power BI**, **Python**, **SQL**, **Excel**
 - 📫 You can reach me at: (tiwarirashi322@gmail.com)
 
 
