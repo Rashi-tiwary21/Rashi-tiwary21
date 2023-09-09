@@ -1,6 +1,6 @@
-                                                                                               Hi there👋, I'm Rashi 
+                                                                                      Hi there👋, I'm Rashi 
                                                                                                
-                                                                                               Aspiring Data Analyst
+                                                                                      Aspiring Data Analyst
 
 - 🎓 BCom Graduate
 - 🌱 Currently learning Power BI, Python, SQL, Excel
@@ -9,9 +9,10 @@
 
  Connect with Me
 
- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
- LinkedIn: [Rashi Tiwari](https://www.linkedin.com/in/rashi-tiwari-01568a228/)
- Twitter: [Your Twitter Profile](https://twitter.com/yourtwitterhandle)
+&#x1F4BB   https://github.com/Rashi-tiwary21
+&#x1F4E1 https://www.linkedin.com/in/rashi-tiwari-01568a228/
  
+
+
 
 
