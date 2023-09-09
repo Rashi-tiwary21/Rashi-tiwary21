@@ -7,13 +7,13 @@
 - 📫 You can reach me at: (tiwarirashi322@gmail.com)
 
 
- Connect with Me
+ **Connect with Me**
 
-&#x1F4BB   https://github.com/Rashi-tiwary21
+[<img src="https://github.com/Rashi-tiwary21/logos/blob/main/Linkedin%20logo.png" width="100" height="100">](https://www.linkedin.com/in/rashi-tiwari-01568a228/)
+[<img src="https://github.com/Rashi-tiwary21/logos/blob/main/github-logo_25231.png" width="100" height="100">](https://github.com/Rashi-tiwary21)
+[<img src="https://github.com/Rashi-tiwary21/logos/blob/main/novypro%20logo.png" width="100" height="100">](https://www.novypro.com/profile_projects/member----6731-1)
 
- <a href="https://www.linkedin.com/in/rashi-tiwari-01568a228/">
-  <img src="https://github.com/Rashi-tiwary21/logos/blob/main/Linkedin%20logo.png" alt="LinkedIn Logo" width="100" height="100">
-</a>
+
 
 
 
