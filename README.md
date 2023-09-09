@@ -1,4 +1,4 @@
-                                                         ** Hi there👋, I'm Rashi **
+                                                           ** Hi there**👋, **I'm Rashi** 
                                                                                                
                                                              Aspiring Data Analyst
 
