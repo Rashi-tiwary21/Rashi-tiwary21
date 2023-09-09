@@ -10,9 +10,8 @@
  Connect with Me
 
 &#x1F4BB   https://github.com/Rashi-tiwary21
-(https://www.freepik.com/icon/linkedin_3536505#fromView=search&term=linkedin+logo&page=1&position=0)](https://www.linkedin.com/in/rashi-tiwari-01568a228/)
+[![LinkedIn Logo](https://github.com/Rashi-tiwary21/logos/blob/main/Linkedin%20logo.png)](https://www.linkedin.com/in/rashi-tiwari-01568a228/)
 
- 
  
 
 
