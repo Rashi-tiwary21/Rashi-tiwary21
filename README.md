@@ -1,6 +1,6 @@
-                                                                         Hi there👋,I'm Rashi   
+                                                                 Hi there👋,I'm Rashi   
                                                           
-                                                                         Aspiring Data Analyst
+                                                                  Aspiring Data Analyst
 
 - 🎓 BCom Graduate
 - 🌱 Currently learning Power BI, Python, SQL, Excel
