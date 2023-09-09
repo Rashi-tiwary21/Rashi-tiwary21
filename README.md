@@ -1,8 +1,8 @@
-                                                                                    Hi there👋,I'm Rashi   
+                                                                                   ** Hi there👋,I'm Rashi  ** 
                                                           
-                                                                                    Aspiring Data Analyst
+                                                                                   
 
-- 🎓 BCom Graduate
+- 🎓 BCom Graduate and an aspiring Data Analyst
 - 🌱 Currently learning Power BI, Python, SQL, Excel
 - 📫 You can reach me at: (tiwarirashi322@gmail.com)
 
