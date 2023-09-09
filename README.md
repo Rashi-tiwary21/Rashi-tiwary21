@@ -10,7 +10,8 @@
  Connect with Me
 
 &#x1F4BB   https://github.com/Rashi-tiwary21
-&#x1F4E1 https://www.linkedin.com/in/rashi-tiwari-01568a228/
+[![LinkedIn](images/linkedin-logo.png)](https://www.linkedin.com/in/rashi-tiwari-01568a228/)
+ 
  
 
 
