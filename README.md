@@ -1,4 +1,4 @@
-- 👋🏻 Hey, I'm**Rashi**,                                                                                 
+- 👋🏻 Hey, I'm **Rashi**,                                                                                 
 - 🎓 **BCom Graduate** and an aspiring **Data Analyst**
 - 🌱 Proficient in **Power BI**, **Python**, **SQL**, **Excel**
 - 📫 You can reach me at: (tiwarirashi322@gmail.com)
